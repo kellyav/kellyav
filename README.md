@@ -1,6 +1,6 @@
 ### Welcome to my GitHub Profile!
 
-[![Hi!](https://res.cloudinary.com/dn6bvlnm7/image/upload/v1594593374/sumperspec_dd5uyo.jpg)]
+[!(https://res.cloudinary.com/dn6bvlnm7/image/upload/v1594593374/sumperspec_dd5uyo.jpg)]
 
 Some of my favorite repositories are pinned on my welcome page 
 
