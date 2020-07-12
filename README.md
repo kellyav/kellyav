@@ -1,6 +1,8 @@
 ### Welcome to my GitHub Profile!
 
-Some of my favorite repositories are
+[Hi!](https://res.cloudinary.com/dn6bvlnm7/image/upload/v1594593374/sumperspec_dd5uyo.jpg)
+
+Some of my favorite repositories are pinned on my welcome page 
 
 
 
